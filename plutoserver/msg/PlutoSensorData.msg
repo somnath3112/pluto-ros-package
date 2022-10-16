@@ -1,0 +1,15 @@
+float64 accX
+float64 accY
+float64 accZ
+float64 gyroZ
+float64 gyroX
+float64 gyroY
+float64 magX
+float64 magY
+float64 magZ
+float64 roll
+float64 pitch
+float64 yaw
+float64 alt
+float64 battery
+float64 rssi
